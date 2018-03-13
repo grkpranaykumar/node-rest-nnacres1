@@ -1,0 +1,7 @@
+var secret={
+  NON_INTERACTIVE_CLIENT_ID:'jzLdyAWYjhLiLH6rqy3Y5QrR7fJ7sSAv',
+  NON_INTERACTIVE_CLIENT_SECRET:'Lzs3bWPIRiL5axhWhw8hgzaqrqP27oaL8BjN5sVu_GOBDAAWv_ge9XUqFfU-I2jc',
+  kid:'NEQ5QTUyQkJDMjcyOEYwODlDNEMyRTkyNUMwQTI2N0NERjEyQjY4Rg'
+}
+
+module.exports = secret;
